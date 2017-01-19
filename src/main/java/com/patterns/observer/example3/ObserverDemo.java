@@ -1,7 +1,6 @@
-package com.patterns.observer;
+package com.patterns.observer.example3;
 
 import java.util.Observable;
-import java.util.Observer;
 
 public class ObserverDemo {
 
